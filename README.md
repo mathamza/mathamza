@@ -1,30 +1,18 @@
-### Hi there 👋, I'm [HAMZA MATOUAT]
+# 💫 About Me:
+I am a **Cloud, Systems, Networks & Security Engineer** with hands-on experience in deploying, managing, and hardening enterprise IT infrastructures. My profile bridges the gap between **resilient system administration** and **proactive cybersecurity**.<br><br>- 🏗️ **Infrastructure & Server Admin:** Experienced in virtualization (**VMware ESXi**), deploying and administering critical servers (**Zimbra** mail servers, **WildFly** application servers), and real-time monitoring with **Zabbix**.<br>- 🛡️ **Defensive Security & EDR:** Skilled in deploying and managing endpoint security and threat detection using **Trellix ePO (EDR)**.<br>- 🔍 **Pentesting, Auditing & Load Testing:** Focused on identifying security flaws and performance bottlenecks across web applications, servers, and networks using **OWASP ZAP, Acunetix, Nmap, OpenVAS,** and **Apache JMeter**.
 
-I am a **Cloud, Systems, Networks & Security Engineer** passionate about building resilient infrastructure, securing enterprise environments, and identifying vulnerabilities before attackers do.
 
-- 🛡️ **Infrastructure & Security:** Experienced in virtualization, server administration, enterprise mail systems, and Endpoint Detection & Response (EDR).
-- 🔍 **Offensive Security & Testing:** Focused on web application penetration testing, network/server vulnerability scanning, and performance load testing.
-- 🌱 **Currently exploring:** Cloud Security, Automation, and Advanced Threat Detection.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/599358367030575164) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/hamza.m.at.2025) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamza-matouat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mathamza5@gmail.com) 
 
----
-
-### 🛠️ Technical Stack & Tools
-
-**☁️ Virtualization, Servers & Monitoring**
-- **Virtualization:** VMware ESXi
-- **Application & Mail Servers:** WildFly, Zimbra Collaboration (Mail Server)
-- **Monitoring:** Zabbix
-
-**🔐 Endpoint Security & Defense**
-- **EDR & Security Management:** Trellix ePO (Endpoint Detection & Response)
-
-**🎯 Pentesting, Vulnerability Scanning & QA**
-- **Web App Pentesting:** OWASP ZAP, Acunetix
-- **Network & Server Scanning:** Nmap, OpenVAS
-- **Performance & Load Testing:** Apache JMeter
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mathamza&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mathamza&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mathamza&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=mathamza&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Connect with me
-- 💼 **LinkedIn:** [www.linkedin.com/in/hamza-matouat]
-- 📧 **Email:** [mathamza5@gmail.com]
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
